@@ -1,6 +1,6 @@
  body{
-    background-color:#df7d72;
-    color: #ffffff;
+    background-color:white;
+    color: #d31b1b;
     background-image: url(images/bg-image.png);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -16,11 +16,13 @@
 .btn{
     border-radius: 1.5rem;
     padding: 9px 20px;
+    
 }
 
 .btn-privious{
     background: rgba(255, 255, 255, 0.2);
     color: #ffffff;
+    
 }
 .navbar-toggler {
     border: none;
